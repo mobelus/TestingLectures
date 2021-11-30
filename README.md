@@ -258,11 +258,20 @@ function Test()
   Sys["Keys"]("Test");
   w["MainMenu"]["Click"]("File|Exit");
 }
-The language of the code recorded by TestComplete for your C++ projects is JScript. So, you can simply write anything that is allowed in JScript and this script will be operational. For instance, in JScript and C++Script all variables and constants are VARIANT. You must declare them and you should do this using the following format:
+The language of the code recorded by TestComplete for your C++ projects is JScript. 
+So, you can simply write anything that is allowed in JScript and this script will be operational.
+For instance, in JScript and C++Script all variables and constants are VARIANT.
+You must declare them and you should do this using the following format:
 var p, w;
-Syntax of C++ scripts is the same as the syntax of C# scripts (since C#Script is also based on JScript). They are the same as long as the scripts reside in TestComplete. If you export scripts to a Connected Application, they will be different. That is, the syntax of C++Script and C#Script routines exported to C++ and C# Connected and Self-Testing Applications will differ.
-Once again, the idea of having C++Scripts as a separate script language for TestComplete projects is to let developers, who are used to C++, write script code that requires minimal changes when being imported into C++ applications. When writing such code in C++Script, please keep in mind the following rules, which distinguish C++Script from JScript:
-1.	When calling methods, use only the following notation: method names are quoted and placed in brackets, and their parameters are placed in parentheses:
+Syntax of C++ scripts is the same as the syntax of C# scripts (since C#Script is also based on JScript). 
+They are the same as long as the scripts reside in TestComplete.
+If you export scripts to a Connected Application, they will be different. 
+That is, the syntax of C++Script and C#Script routines exported to C++ and C# Connected and Self-Testing Applications will differ.
+Once again, the idea of having C++Scripts as a separate script language for TestComplete projects is to let developers, 
+who are used to C++, write script code that requires minimal changes when being imported into C++ applications. 
+When writing such code in C++Script, please keep in mind the following rules, which distinguish C++Script from JScript:
+1.	When calling methods, use only the following notation: method names are quoted and placed in brackets, 
+and their parameters are placed in parentheses:
 C++Script
 Log["Message"]("My Message", "My Message Description", 0, 1);
 ```
