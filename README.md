@@ -995,3 +995,134 @@ any [эни] - любой / каждый
 ```
 
 
+
+
+
+
+
+### Software
+https://github.com/chizhonk/interview_preparation_kit
+### All
+https://github.com/chaotism/handbook
+https://www.kobzarev.com/wp-content/uploads/books/php/PHPbook.pdf
+### Testing
+https://github.com/VladislavEremeev/QA_bible/blob/master/Manual%20part%201.md
+
+### Qml Keyboard
+https://coderoad.ru/45033267/QML-%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%9D%D0%BE%D0%B2%D1%83%D1%8E-%D0%A0%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D1%83
+
+### Telekom
+https://telekomhilft.telekom.de/t5/Fernsehen/Mediareceiver-401-schaltet-einfach-ohne-Ankuendigung-ab/td-p/2920023
+
+
+https://vikimult.net/10009-igra-v-kalmara-1-sezon-smotret-onlajn/
+
+```
+ССЫЛКА
+КНОПКА
+НАДПИСЬ
+```
+
+# Команды Linux
+```
+2. grep command examples
+Search for a given string in a file (case in-sensitive search).
+$ grep -i "the" demo_file
+
+Что делает команда grep?
+Поиск шаблона в строке или файле довольно просто выполнить с помощью команды grep. Эта команда выполняется, когда необходимо найти конкретную комбинацию символов. Grep-фильтр ищет один или несколько файлов в соответствии с пользовательской командой для поиска текстовых строк с использованием любого выражения.
+
+Команда Grep – это выражение, используемое для фильтрации результатов или вывода.
+Например, чтобы вывести список каталогов и искать только файлы со словом «cron», выполните команду:
+ls | grep cron
+
+3. find command examples
+Find files using file-name ( case in-sensitve find)
+# find -iname "MyCProgram.c"
+
+4. ssh command examples
+Login to remote host
+ssh -l jsmith remotehost.example.com
+
+Что делает команда env?
+Команда env – это shell-команда, которая может использоваться для вывода списка существующих переменных среды или для запуска другой программы в пользовательской среде без изменения текущей.
+
+Что значит chmod + x FILENAME?
+Команда chmod – это сокращение от Change Mode. Эта команда чрезвычайно полезна для изменения прав доступа к файлам и папкам, расположенным в Linux/Unix. Разрешение на доступ к файлу/каталогу, которое обычно является записью, чтением или выполнением для любого пользователя или группы.
+
+touch file1.doc
+- создать файл
+
+cat - вывод содержимого файла в консоль
+
+ls - вывести список каталогов
+ls command examples
+Display filesize in human readable format (e.g. KB, MB etc.,)
+
+chmod - сменитиь права доступа для файл / папки
+
+cd command examples
+
+les
+
+man - вызвать документацию линукс на что угодно
+
+ps -
+
+free - 
+kill  - убить процесс
+
+rm - удалить 
+cp - скоприровать 
+mv - переместить
+```
+
+
+				
+Тестировщики на реальной работе занимаются:
+- пишут документы ТЗ, ТестКейсы, Тестпланы, ЧекЛисты
+- продумывают тесты по ненаписнному ПО по ТЗ и пишут тесты по реализованному ПО
+- тестеры тестят ПО
+
+Как тестировать Карандаш, тостер, банкомат, мост, аппарат проающий бутылки воды
+https://www.youtube.com/watch?v=Erctsy6i0zo
+
+
+Сценарий тестирования "Окно Авторизации"
+* Функционал: "Окно Авторизации"
+* Шаги:
+- вводим логин пользователя
+- вводим пароль пользователя
+- ставим галочку, что мы не админисратор
+- жмём кнопку войти
+* Ожидаемый результат
+Происходи пререход на страницу пользователя
+
+Для Сценария тестирования "Окно Авторизации"
+Тестовые Входные данные 
+логин: ivan
+пароль: qwerty
+
+Тестовый скрипт:
+- вводим логин пользователя ivan
+- вводим пароль пользователя qwerty
+- ставим галочку, что мы не админисратор
+- жмём кнопку войти
+```
+  var p, w;
+  p = Sys["Process"]("MFCApplication1");
+  w = p["Window"]("MFCApplication1");
+  w["Activate"]();
+  w["Window"]("Button")("IDOK")["Click"];
+  w["Window"]("Edit")["VScroll"]["Pos"] = 0;
+  w["Window"]("Edit")["Click"](9, 9);
+  Sys["Keys"]("Test");
+  w["MainMenu"]["Click"]("File|Exit");
+```
+ 
+
+Git
+Разница между pull и fetch
+Разница между merge and rebase
+ 
+
