@@ -1,6 +1,12 @@
 # TestingLectures
 Lestures for testing courses
 
+ This will create a bullet point list in your markdown
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 # FAQ - Часто задаваеме вопросы
 Вот пара ссылок на карты знаний для тестировщиков, но можете на просторах найти и другие. 
 https://www.mindmeister.com/ru/1324282825/junior-qa?fullscreen=1 
