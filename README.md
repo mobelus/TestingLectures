@@ -1,11 +1,13 @@
 # TestingLectures
 Lestures for testing courses
 
- This will create a bullet point list in your markdown
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
+   
+#^ two spaces
 
 # FAQ - Часто задаваеме вопросы
 Вот пара ссылок на карты знаний для тестировщиков, но можете на просторах найти и другие. 
