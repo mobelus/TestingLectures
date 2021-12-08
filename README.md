@@ -1121,8 +1121,44 @@ https://www.youtube.com/watch?v=Erctsy6i0zo
 ```
  
 
-Git
-Разница между pull и fetch
-Разница между merge and rebase
- 
+# Git
+
+### Разница между pull и fetch
+
+### Разница между merge and rebase
+
+
+# SQL
+
+- Когда выполняется Селект из как минимум двух таблиц,
+то необходимо у этих таблиц найти общий "по смыслу"/"содержанию" столбец
+и дописать условие для таблиц по этим столбцам соотвественно
+
+
+
+https://tproger.ru/articles/sql-interview-questions/
+
+# ТИПИЧНЫЙ Вопрос с селектом:
+Select *
+FROM A , B
+
+# ТИПИЧНЫЙ Вопрос:
+Обычный JOIN это какой JOIN
+Ответ = INNER JOIN
+
+# ТИПИЧНЫЙ Вопрос:
+Написать SQL – запрос для отображения текущей даты.
+Ответ: SQL имеет встроенную функцию под названием GetDate(), которая возвращает текущую временную метку. Это будет работать в Microsoft SQL Server, другие производители, такие как Oracle и MySQL также имеет эквивалентные функции.
+SELECT GetDate();
+
+
+https://andreyex.ru/bazy-dannyx/uchebnoe-posobie-po-sql/14-naibolee-chasto-ispolzuemyx-zaprosov-sql-vopros-otvet/
+
+https://habr.com/ru/post/181033/
+
+
+
+https://ppt-online.org/146233
+
+
 
