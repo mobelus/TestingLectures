@@ -606,6 +606,19 @@ diskmgmt.msc - Управление жёсткими дисками
 ```
 
 ### Git / Svn commands
+# Git
+
+### Разница между pull и fetch
+
+### Разница между merge and rebase
+
+Коротко: rebase нужен для порядка (линейность истории), чтоб потом смотреть и понимать. rebase переносит коммиты поверх того, что было в результирующей ветке. merge оставляет коммиты, как есть, просто добавляя связующий коммит между ветками.
+
+Подробно: rebase нашей ветки my_branch в ветку master. my_branch ветка перестанет существовать и мы грубо говоря разрубим нитку master и привяжем нашу нитку my_branch к нитке master, и все коммиты из my_branch станут находится в master-ветке. my_branch при этом перестанет существовать в дереве коммитов.
+
+Подробно: merge нашей ветки my_branch в ветку master. my_branch ветка останется существовать отдельно от master НО в точке "слияния" веток и произойдёт как таковое слияние, но сама ветка my_branch останется жить, а все изменения и результат слияния двух веток будут в результирубщем "merge"-коммите внтури ветки master.
+
+
 ```
 + clone - склонировать репозиторий - клонировать
 + add - добавить файлы к коммиту - добавить
@@ -691,6 +704,8 @@ https://github.com/VladislavEremeev/QA_bible/blob/master/Manual%20part%201.md
 ```
 
 # Команды Linux
+https://www.hostinger.ru/rukovodstva/osnovnyje-komandy-linux#2-cd
+
 ```
 2. grep command examples
 Search for a given string in a file (case in-sensitive search).
@@ -787,12 +802,6 @@ https://www.youtube.com/watch?v=Erctsy6i0zo
   w["MainMenu"]["Click"]("File|Exit");
 ```
  
-
-# Git
-
-### Разница между pull и fetch
-
-### Разница между merge and rebase
 
 
 # SQL
