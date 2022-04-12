@@ -1,6 +1,9 @@
 # TestingLectures
 Lestures for testing courses
 
+# ОСНОВНОЕ
+http://www.protesting.ru/testing/testdeliverables.html
+
 # MD Format
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
