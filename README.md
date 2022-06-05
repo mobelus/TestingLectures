@@ -8,6 +8,10 @@ http://www.protesting.ru/testing/testdeliverables.html
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 
+# ###################################
+# JUNIOR # JUNIOR # JUNIOR # JUNIOR # 
+# ###################################
+
 # ВОПРОСЫ:
 
 ### ? - Какую литаретуру по тестированию читали ?
