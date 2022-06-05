@@ -57,9 +57,9 @@ https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 4. тестирование продукта;
 5. внедрение и поддержка.
 
-===============================================
-https://blog.skillfactory.ru/glossary/rest-api/
-===============================================
+### ===============================================
+### https://blog.skillfactory.ru/glossary/rest-api/
+### ===============================================
 
 ### ? - Что такое REST: 
 ОТВЕТ: 
