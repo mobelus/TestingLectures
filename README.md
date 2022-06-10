@@ -1,6 +1,8 @@
 # TestingLectures
 Lestures for testing courses
 
+https://habr.com/ru/post/549054/
+
 # ОСНОВНОЕ
 http://www.protesting.ru/testing/testdeliverables.html
 
