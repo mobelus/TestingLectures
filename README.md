@@ -1,18 +1,25 @@
-# TestingLectures
-Lestures for testing courses
-
-https://habr.com/ru/post/549054/
-
-# ОСНОВНОЕ
-http://www.protesting.ru/testing/testdeliverables.html
-
-# MD Format
+# TestingLectures - Lestures for testing courses
+### MD Format
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
-# НАЙТИ ВСЕ ССЫЛКИ НА САЙТЕ
+# Фундаментальная теория тестирования
+https://habr.com/ru/post/549054/
+### Чек-лист подготовки к собеседованию
+- https://habr.com/ru/company/renins/blog/564522/
+### Собеседование тестировщика — cкользкие вопросы
+- https://testengineer.ru/sobesedovanie-testirovshchika-skolzkie-voprosy/
+### 100 вопросов ручному тестировщику
+- https://atesting.ru/100-samyh-popyliarnyh-voprosov-i-otvetov-na-sobesedovanii-po-testirovaniu-programmnogo-obespecheniia/
+### Каких ответов я жду на собеседовании по тестированию 
+- https://habr.com/ru/post/254209/
+### Прочее
+- http://www.protesting.ru/testing/testdeliverables.html
+
+## НАЙТИ ВСЕ ССЫЛКИ НА САЙТЕ
 - Поиск всех кликабельных Ссылок и Кнопок
 - https://smallseotools.com/website-link-analyzer-tool/
-
+## Pairwise Online-Составитель таблиц для попарного тестинга
+- https://pairwise.teremokgames.com/
 
 # О REST Клиент-Сервере HTTP 
 ```
@@ -845,7 +852,9 @@ POST - НЕИдемпатентный - каждый раз создавая Н�
 # ###################################
 
 
+# SELECT Шпаргалка
 
+![](SQL_ЗАПРОС_ИЗ_ОБЫЧНОГО_ЯЗЫКА.png)
 
 
 # CREATE INSERT SELECT UPDATE DELETE (DROP)
