@@ -1,6 +1,5 @@
 # TestingLectures - Lestures for testing courses
-### MD Format
-https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 100 вопросов ручному тестировщику - https://atesting.ru/100-samyh-popyliarnyh-voprosov-i-otvetov-na-sobesedovanii-po-testirovaniu-programmnogo-obespecheniia/
 
