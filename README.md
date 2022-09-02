@@ -2,18 +2,15 @@
 ### MD Format
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
-# Фундаментальная теория тестирования
-https://habr.com/ru/post/549054/
-### Чек-лист подготовки к собеседованию
-- https://habr.com/ru/company/renins/blog/564522/
-### Собеседование тестировщика — cкользкие вопросы
-- https://testengineer.ru/sobesedovanie-testirovshchika-skolzkie-voprosy/
-### 100 вопросов ручному тестировщику
-- https://atesting.ru/100-samyh-popyliarnyh-voprosov-i-otvetov-na-sobesedovanii-po-testirovaniu-programmnogo-obespecheniia/
-### Каких ответов я жду на собеседовании по тестированию 
-- https://habr.com/ru/post/254209/
-### Прочее
-- http://www.protesting.ru/testing/testdeliverables.html
+100 вопросов ручному тестировщику - https://atesting.ru/100-samyh-popyliarnyh-voprosov-i-otvetov-na-sobesedovanii-po-testirovaniu-programmnogo-obespecheniia/
+
+| Название                                             |  Ссылка                                                                 |
+|----------------------------------------------------- |-------------------------------------------------------------------------|
+| **Фундаментальная теория тестирования**              | https://habr.com/ru/post/549054/                                        |
+| Чек-лист подготовки к собеседованию                  | https://habr.com/ru/company/renins/blog/564522/                         |
+| Собеседование тестировщика — cкользкие вопросы       | https://testengineer.ru/sobesedovanie-testirovshchika-skolzkie-voprosy/ |
+| Каких ответов я жду на собеседовании по тестированию | https://habr.com/ru/post/254209/                                        |
+| Прочее                                               | http://www.protesting.ru/testing/testdeliverables.html                  |
 
 ## НАЙТИ ВСЕ ССЫЛКИ НА САЙТЕ
 - Поиск всех кликабельных Ссылок и Кнопок
