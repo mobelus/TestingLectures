@@ -1,5 +1,7 @@
-# TestingLectures - Lestures for testing courses
+# TestingLectures - Lectures for testing courses
 MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
+# MainTitle
 
 ### qpaaaa
 
@@ -32,7 +34,7 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 [Мой Хэддинг0000](### qpaaaa "Goto ### qpaaaa")
 
-[text goes here](#TestingLectures - Lestures for testing courses) section_title<a name="qp00"></a>  
+[text goes here](#MainTitle) section_title<a name="qp00"></a>  
 	  
 
 - [ ========================= ПРОЧЕЕ =======================              ](p00)
