@@ -49,7 +49,7 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 - [ ========================= ПРОЧЕЕ =======================              ](p00)
 
-section_title<a name="qp00"></a>
+<a name="qp00"></a>
 
 - [Задачи на соображалку                                                  ](p01)
 - [100 этажей и шары из стекла                                            ](p02)
