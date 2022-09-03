@@ -28,7 +28,7 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 [Мой-Хэддинг](### Мой-Хэддинг "Goto Мой-Хэддинг")
 
-[Мой Хэддинг00](# qp00 "Goto qp00")
+[Мой Хэддинг00](qp00)
 
 [Мой Хэддинг0000](### qpaaaa "Goto ### qpaaaa")
 
