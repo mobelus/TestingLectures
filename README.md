@@ -3,6 +3,10 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 # MainTitle
 
+# q1  
+## q2
+### q3 
+
 ### qpaaaa # qp00 
 
 ### qp00 Мой Хэддинг
@@ -30,7 +34,11 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 [Мой-Хэддинг](### Мой-Хэддинг "Goto Мой-Хэддинг")
 
-[Мой Хэддинг00](# qp00)
+[q1](#q1)
+[q2](##q2)
+[q3](###q3)
+
+[Мой Хэддинг00](#qp00)
 
 [Мой Хэддинг0000](### qpaaaa "Goto ### qpaaaa")
 
