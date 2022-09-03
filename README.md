@@ -5,6 +5,8 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 ### qp00 Мой Хэддинг
 
+### Мой-Хэддинг
+
 qp00
 
 100 вопросов ручному тестировщику - https://atesting.ru/100-samyh-popyliarnyh-voprosov-i-otvetov-na-sobesedovanii-po-testirovaniu-programmnogo-obespecheniia/
@@ -24,7 +26,7 @@ qp00
 - https://pairwise.teremokgames.com/
 
 
-[Мой Хэддинг](### Мой Хэддинг "Goto Мой-Хэддинг")
+[Мой Хэддинг](### Мой-Хэддинг "Goto Мой-Хэддинг")
 
 [Мой Хэддинг00](qp00 "Goto qp00")
 
