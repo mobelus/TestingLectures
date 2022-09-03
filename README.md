@@ -42,10 +42,15 @@ MD Format - https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 
 [Мой Хэддинг0000](### qpaaaa "Goto ### qpaaaa")
 
+```
 [text goes here](#MainTitle) section_title<a name="qp00"></a>  
-	  
+```
+
 
 - [ ========================= ПРОЧЕЕ =======================              ](p00)
+
+section_title<a name="qp00"></a>
+
 - [Задачи на соображалку                                                  ](p01)
 - [100 этажей и шары из стекла                                            ](p02)
 - [Задача с курицами несущими яйца в день                                 ](p03)
