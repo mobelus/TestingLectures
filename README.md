@@ -1004,6 +1004,13 @@ REST API будет использовать метод PUT,
 ### ? - Как выбрать юзеров (user) из таблицы "table" с именем Иван и количеством машин больше 4 штук ?
 ОТВЕТ: **SELECT user FROM table WHERE user='Иван' AND (cars > 4);**
 
+### ? - Сколько JOIN-ов есть ?
+ОТВЕТ: 
+1. JOIN = INNER JOIN
+2. OUTER JOIN
+3. LEFT JOIN
+4. RIGHT JOIN
+
 
 ### ? - Что такое База Данных ? <a name="d01"></a> [ BACK ](#bd01)
 
