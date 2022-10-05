@@ -2717,8 +2717,9 @@ https://www.hostinger.ru/rukovodstva/osnovnyje-komandy-linux#2-cd
 - mkdir - создать пустую папку с именем, которое укажем после команды mkdir
 - ssh - ssh user_name@192.168.10.2 - выполнит вход под учёткой user_name в машину работающую по адресу 192.168.10.2 по сети
 - scp - scp /home/ivan/file_1.txt user_name@192.168.10.2:/home/alex/file_1.txt копирование файла по сети, с одного Пк, на другой, к которому мы укажем имя пользователя@айпишник:и_полный_путь_куда_скопировать_файл
+- apt-get install - команда для установки программ через командную строку (пользоваться надо так (например чтобы установить КУРЛ): sudo apt-get install curl)
 
-
+	
 ```
 2. grep command examples
 Search for a given string in a file (case in-sensitive search).
